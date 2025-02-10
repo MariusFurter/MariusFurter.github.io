@@ -1,9 +1,9 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+#customize journal badges (must have url for color to work correctly)
 
-"PhysRev":
-  url: https://journals.aps.org/
+# "AJP":
+#   url: https://aapt.scitation.org/journal/ajp
+#   color: "#00369f"
 
-"Vision":
-  color: "#009f36"
+"JGO":
+  url: https://jgo.amegroups.org
+  color: "#6548a8"
